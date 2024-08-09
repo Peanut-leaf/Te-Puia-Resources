@@ -1,0 +1,25 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    width: 100%;
+}
+body{
+    background-color:aliceblue;
+}
+.hero-image{
+    background-image: url("./20240626_104344.jpg");
+    height: 352px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-text{
+    color:rgb(255, 255, 255);
+    position: absolute;
+    text-align: center;
+    top: 195px;
+    width: 100%;
+    font-size: 3rem;
+}
