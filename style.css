@@ -5,21 +5,19 @@ img{
     width: 100%;
 }
 body{
-    background-color:aliceblue;
+    background-color:rgb(255, 255, 255);
 }
 .hero-image{
-    background-image: url("./20240626_104344.jpg");
-    height: 352px;
+    background-image: url("./20240626_111134.jpg");
+    height: 450px;
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
 .hero-text{
-    color:rgb(255, 255, 255);
-    position: absolute;
+    color:rgb(202, 255, 255);
     text-align: center;
     top: 195px;
     width: 100%;
-    font-size: 3rem;
+    font-size: 4rem;
 }
